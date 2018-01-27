@@ -11,6 +11,7 @@
 int main(char **argv){
 	printf("I'm Cameron");
 	
+	printf("I'm Thomas");
 	
 	return 0;
 }
